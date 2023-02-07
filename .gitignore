@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#Downloaded Base Images
+src/base_downloader/layouts/*/*.jpg
+
+#Clipped Images
+src/clip_image/clipped_img/*.png
