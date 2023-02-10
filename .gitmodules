@@ -1,0 +1,3 @@
+[submodule "src/labelImg"]
+	path = src/labelImg
+	url = https://github.com/heartexlabs/labelImg.git
