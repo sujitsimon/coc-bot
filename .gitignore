@@ -134,3 +134,6 @@ src/base_downloader/layouts/*/*.jpg
 
 #Clipped Images
 src/clip_image/clipped_img/*.png
+
+#Saved Model State
+src/playground/save

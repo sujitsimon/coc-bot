@@ -24,8 +24,8 @@ def process_object(annotation_object):
     image_width = annotation_object.find('size//width').text
     image_height = annotation_object.find('size//height').text
     for each_annotation in annotation_object.iter('object'):
-        string = "{}, {}, {}, {},\
-                  {}, {}, {}, {}\n".format(image_name,
+        string = "{},{},{},{},\
+                  {},{},{},{}\n".format(image_name,
                             image_width,
                             image_height,
                             each_annotation.find('name').text,
@@ -36,7 +36,7 @@ def process_object(annotation_object):
         array.append(string)
     return array
 
-master_record = ["image_name, width, height, label, x_min, y_min, x_max, y_max\n"]
+master_record = ["image_name,width,height,label,x_min,y_min,x_max,y_max\n"]
 for root_folder, folders, files in os.walk(".\\train_data\\"):
     for file in files:
         if file.endswith('.xml'):

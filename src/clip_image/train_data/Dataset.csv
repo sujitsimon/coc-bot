@@ -1,389 +1,389 @@
-image_name, width, height, label, x_min, y_min, x_max, y_max
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, elixer_collector,                  437, 169, 490, 213
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, elixer_collector,                  568, 150, 624, 206
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, elixer_collector,                  369, 291, 414, 341
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, gold_collector,                  437, 358, 490, 400
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, gold_collector,                  508, 356, 563, 401
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg, 1066, 700, gold_collector,                  509, 161, 561, 199
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, gold_collector,                  553, 207, 606, 250
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, gold_collector,                  684, 170, 737, 212
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, gold_collector,                  774, 233, 833, 278
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, elixer_collector,                  588, 162, 654, 214
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, elixer_collector,                  732, 195, 777, 247
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg, 1280, 720, elixer_collector,                  498, 223, 553, 275
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, elixer_collector,                  640, 268, 715, 345
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, elixer_collector,                  496, 160, 569, 233
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, elixer_collector,                  315, 82, 391, 151
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, gold_collector,                  153, 166, 250, 249
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, gold_collector,                  453, 364, 539, 422
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg, 894, 600, gold_collector,                  421, 116, 506, 179
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, elixer_collector,                  304, 156, 333, 185
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, elixer_collector,                  278, 172, 306, 199
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, elixer_collector,                  259, 188, 285, 218
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, elixer_collector,                  231, 204, 262, 237
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, gold_collector,                  193, 180, 220, 202
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, gold_collector,                  214, 160, 240, 184
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, gold_collector,                  236, 148, 263, 171
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg, 634, 300, gold_collector,                  258, 130, 284, 152
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, elixer_collector,                  627, 102, 706, 174
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, elixer_collector,                  684, 176, 769, 249
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, elixer_collector,                  301, 351, 384, 427
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, elixer_collector,                  379, 407, 460, 485
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, gold_collector,                  692, 74, 774, 145
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, gold_collector,                  790, 119, 867, 186
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, gold_collector,                  885, 132, 971, 197
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg, 1280, 698, gold_collector,                  460, 476, 536, 545
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, elixer_collector,                  355, 416, 427, 491
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, elixer_collector,                  417, 462, 486, 539
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, elixer_collector,                  472, 500, 544, 581
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, elixer_collector,                  534, 549, 600, 618
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, gold_collector,                  670, 558, 755, 634
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, gold_collector,                  733, 513, 811, 583
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, gold_collector,                  789, 477, 863, 542
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg, 1263, 717, gold_collector,                  848, 437, 925, 498
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, elixer_collector,                  219, 335, 328, 424
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, elixer_collector,                  340, 410, 434, 504
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, elixer_collector,                  496, 127, 592, 210
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, elixer_collector,                  886, 378, 980, 467
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, gold_collector,                  333, 269, 418, 343
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, gold_collector,                  420, 212, 507, 286
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, gold_collector,                  760, 209, 845, 289
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg, 1247, 709, gold_collector,                  425, 486, 503, 576
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, elixer_collector,                  363, 180, 452, 267
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, elixer_collector,                  524, 86, 633, 171
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, elixer_collector,                  500, 441, 582, 528
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, elixer_collector,                  669, 531, 758, 626
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, gold_collector,                  624, 69, 723, 144
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, gold_collector,                  865, 385, 959, 452
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, gold_collector,                  900, 447, 1011, 519
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg, 1327, 720, gold_collector,                  847, 496, 936, 571
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, elixer_collector,                  354, 169, 428, 242
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, elixer_collector,                  255, 263, 340, 347
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, elixer_collector,                  847, 283, 928, 355
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, elixer_collector,                  695, 140, 771, 216
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, gold_collector,                  482, 110, 565, 185
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, gold_collector,                  431, 471, 509, 536
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, gold_collector,                  655, 476, 738, 540
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg, 1182, 720, gold_collector,                  845, 173, 932, 250
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, elixer_collector,                  759, 179, 831, 250
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, elixer_collector,                  818, 220, 891, 296
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, elixer_collector,                  764, 421, 849, 502
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, elixer_collector,                  615, 566, 696, 644
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, gold_collector,                  476, 487, 556, 549
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, gold_collector,                  629, 474, 716, 531
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg, 1258, 701, gold_collector,                  704, 527, 791, 589
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, elixer_collector,                  341, 255, 417, 343
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, elixer_collector,                  419, 243, 481, 318
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, elixer_collector,                  376, 337, 449, 412
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, elixer_collector,                  716, 211, 790, 286
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, gold_collector,                  394, 192, 468, 247
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, gold_collector,                  445, 151, 520, 209
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, gold_collector,                  531, 135, 602, 196
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg, 1263, 700, gold_collector,                  566, 473, 638, 528
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, elixer_collector,                  595, 533, 680, 624
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, elixer_collector,                  651, 457, 732, 544
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, elixer_collector,                  751, 457, 844, 544
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, elixer_collector,                  764, 381, 849, 454
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, gold_collector,                  448, 357, 521, 424
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, gold_collector,                  729, 281, 808, 348
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, gold_collector,                  840, 287, 926, 352
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg, 1278, 737, gold_collector,                  826, 360, 908, 420
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, elixer_collector,                  451, 113, 543, 198
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, elixer_collector,                  814, 324, 911, 415
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, elixer_collector,                  461, 448, 541, 529
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, elixer_collector,                  635, 482, 722, 572
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, gold_collector,                  382, 410, 459, 474
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, gold_collector,                  713, 458, 780, 530
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, gold_collector,                  702, 147, 777, 205
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg, 1285, 686, gold_collector,                  532, 509, 607, 574
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, elixer_collector,                  655, 480, 737, 569
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, elixer_collector,                  713, 438, 805, 529
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, elixer_collector,                  774, 406, 859, 485
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, elixer_collector,                  829, 344, 916, 442
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, gold_collector,                  172, 374, 257, 442
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, gold_collector,                  235, 427, 313, 490
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, gold_collector,                  296, 472, 377, 534
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg, 1117, 720, gold_collector,                  509, 481, 586, 545
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, elixer_collector,                  777, 167, 855, 246
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, elixer_collector,                  842, 215, 901, 279
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, elixer_collector,                  886, 245, 948, 315
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, elixer_collector,                  931, 277, 1005, 356
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, gold_collector,                  543, 180, 607, 235
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, gold_collector,                  465, 332, 533, 394
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg, 1322, 682, gold_collector,                  530, 375, 592, 438
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, elixer_collector,                  512, 255, 587, 322
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, elixer_collector,                  479, 296, 556, 377
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, elixer_collector,                  541, 341, 600, 415
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, elixer_collector,                  583, 402, 655, 478
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, gold_collector,                  882, 272, 957, 330
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, gold_collector,                  922, 330, 1001, 384
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, gold_collector,                  871, 362, 946, 424
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg, 1450, 720, gold_collector,                  822, 419, 898, 483
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, elixer_collector,                  777, 151, 843, 210
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, elixer_collector,                  842, 177, 907, 257
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, elixer_collector,                  901, 228, 963, 296
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, elixer_collector,                  870, 453, 948, 526
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, gold_collector,                  911, 331, 969, 380
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, gold_collector,                  858, 370, 925, 424
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, gold_collector,                  765, 435, 829, 498
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg, 1520, 720, gold_collector,                  822, 510, 896, 571
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, elixer_collector,                  335, 177, 423, 261
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, elixer_collector,                  412, 129, 491, 216
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, elixer_collector,                  464, 86, 542, 174
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, elixer_collector,                  532, 48, 614, 127
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, gold_collector,                  635, 111, 703, 169
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, gold_collector,                  701, 158, 772, 218
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, gold_collector,                  761, 203, 833, 260
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg, 1140, 720, gold_collector,                  856, 433, 945, 495
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, elixer_collector,                  429, 459, 484, 532
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, elixer_collector,                  533, 497, 601, 566
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, elixer_collector,                  696, 428, 760, 493
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, elixer_collector,                  695, 250, 765, 324
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, gold_collector,                  407, 270, 474, 323
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, gold_collector,                  373, 431, 434, 492
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, gold_collector,                  647, 476, 712, 531
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg, 1128, 718, gold_collector,                  756, 385, 836, 451
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, elixer_collector,                  458, 401, 540, 487
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, elixer_collector,                  532, 449, 602, 531
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, elixer_collector,                  642, 451, 733, 533
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, elixer_collector,                  931, 263, 1020, 352
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, gold_collector,                  762, 464, 838, 549
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, gold_collector,                  833, 422, 911, 495
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, gold_collector,                  889, 373, 986, 449
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg, 1257, 720, gold_collector,                  461, 517, 544, 589
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, elixer_collector,                  339, 377, 435, 482
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, elixer_collector,                  421, 429, 508, 536
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, elixer_collector,                  489, 484, 577, 578
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, elixer_collector,                  559, 535, 648, 639
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, gold_collector,                  907, 402, 1011, 482
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, gold_collector,                  840, 457, 935, 536
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, gold_collector,                  765, 511, 872, 590
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg, 1227, 720, gold_collector,                  693, 559, 798, 644
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, elixer_collector,                  651, 179, 712, 242
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, elixer_collector,                  735, 235, 798, 304
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, elixer_collector,                  782, 277, 839, 338
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, elixer_collector,                  826, 310, 888, 375
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, gold_collector,                  808, 395, 876, 450
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, gold_collector,                  765, 431, 832, 482
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, gold_collector,                  715, 467, 787, 517
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg, 1277, 720, gold_collector,                  676, 499, 749, 554
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, elixer_collector,                  800, 256, 871, 327
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, elixer_collector,                  828, 360, 906, 439
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, elixer_collector,                  753, 410, 842, 483
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, elixer_collector,                  638, 56, 714, 133
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, gold_collector,                  690, 141, 763, 198
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, gold_collector,                  425, 386, 499, 449
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg, 1247, 720, gold_collector,                  518, 457, 583, 511
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, elixer_collector,                  487, 125, 585, 221
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, elixer_collector,                  307, 384, 405, 481
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, elixer_collector,                  373, 501, 467, 597
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, elixer_collector,                  466, 532, 564, 634
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, gold_collector,                  935, 155, 1051, 237
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, gold_collector,                  876, 406, 985, 485
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, gold_collector,                  832, 502, 940, 578
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg, 1194, 720, gold_collector,                  721, 559, 828, 633
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, elixer_collector,                  559, 527, 620, 592
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, elixer_collector,                  601, 500, 660, 557
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, elixer_collector,                  653, 459, 704, 524
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, elixer_collector,                  695, 430, 751, 491
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, gold_collector,                  860, 318, 925, 359
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, gold_collector,                  815, 345, 883, 402
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, gold_collector,                  777, 383, 845, 432
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg, 1167, 714, gold_collector,                  736, 412, 796, 464
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, elixer_collector,                  398, 279, 469, 347
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, elixer_collector,                  410, 358, 482, 427
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, elixer_collector,                  493, 413, 555, 484
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, elixer_collector,                  740, 179, 805, 246
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, gold_collector,                  499, 191, 578, 247
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, gold_collector,                  750, 428, 827, 482
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, gold_collector,                  844, 289, 917, 348
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg, 1334, 750, gold_collector,                  832, 374, 906, 430
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, elixer_collector,                  772, 71, 862, 162
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, elixer_collector,                  324, 350, 412, 430
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, elixer_collector,                  430, 398, 507, 480
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, elixer_collector,                  772, 316, 858, 403
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, gold_collector,                  306, 288, 382, 352
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, gold_collector,                  403, 215, 489, 278
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, gold_collector,                  464, 138, 553, 204
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg, 1206, 720, gold_collector,                  601, 493, 713, 567
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, elixer_collector,                  587, 360, 661, 433
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, elixer_collector,                  706, 446, 779, 516
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, elixer_collector,                  827, 189, 897, 259
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, elixer_collector,                  928, 263, 991, 330
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, gold_collector,                  753, 152, 829, 205
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, gold_collector,                  564, 289, 649, 347
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, gold_collector,                  821, 479, 901, 538
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg, 1220, 720, gold_collector,                  987, 329, 1073, 389
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, elixer_collector,                  376, 153, 465, 231
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, elixer_collector,                  298, 336, 380, 420
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, elixer_collector,                  642, 445, 727, 532
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, elixer_collector,                  827, 176, 906, 269
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, gold_collector,                  599, 61, 692, 134
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, gold_collector,                  744, 170, 829, 240
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, gold_collector,                  738, 450, 833, 522
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg, 1171, 730, gold_collector,                  575, 505, 673, 579
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, elixer_collector,                  212, 354, 314, 451
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, elixer_collector,                  398, 558, 494, 653
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, elixer_collector,                  662, 491, 758, 590
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, elixer_collector,                  773, 403, 876, 496
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, gold_collector,                  952, 227, 1060, 303
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, gold_collector,                  466, 98, 559, 166
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, gold_collector,                  654, 107, 765, 186
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg, 1131, 700, gold_collector,                  501, 582, 601, 667
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, elixer_collector,                  193, 352, 291, 449
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, elixer_collector,                  380, 554, 466, 650
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, elixer_collector,                  638, 490, 743, 580
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, elixer_collector,                  744, 406, 860, 507
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, gold_collector,                  447, 93, 538, 165
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, gold_collector,                  646, 116, 741, 185
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, gold_collector,                  936, 224, 1030, 302
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg, 1109, 700, gold_collector,                  492, 592, 586, 671
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, elixer_collector,                  288, 151, 376, 246
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, elixer_collector,                  200, 182, 287, 282
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, elixer_collector,                  199, 283, 292, 376
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, elixer_collector,                  291, 323, 379, 415
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, gold_collector,                  360, 126, 444, 198
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, gold_collector,                  442, 55, 540, 137
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, gold_collector,                  553, 41, 652, 115
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg, 1164, 700, gold_collector,                  310, 423, 400, 499
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, elixer_collector,                  385, 443, 474, 536
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, elixer_collector,                  670, 496, 773, 589
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, elixer_collector,                  744, 442, 835, 533
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, elixer_collector,                  808, 384, 911, 483
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, gold_collector,                  771, 165, 861, 248
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, gold_collector,                  842, 225, 931, 305
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, gold_collector,                  847, 308, 959, 382
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg, 1162, 720, gold_collector,                  475, 527, 567, 607
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, elixer_collector,                  308, 296, 402, 385
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, elixer_collector,                  435, 207, 526, 295
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, elixer_collector,                  688, 144, 763, 234
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, elixer_collector,                  681, 514, 774, 599
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, gold_collector,                  328, 396, 419, 464
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, gold_collector,                  373, 462, 466, 527
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, gold_collector,                  601, 130, 684, 200
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg, 1310, 720, gold_collector,                  375, 269, 456, 340
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, elixer_collector,                  280, 186, 362, 263
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, elixer_collector,                  438, 69, 517, 146
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, elixer_collector,                  562, 67, 640, 150
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, elixer_collector,                  698, 168, 779, 252
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, gold_collector,                  377, 134, 453, 194
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, gold_collector,                  220, 244, 296, 314
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, gold_collector,                  580, 499, 686, 576
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg, 1088, 678, gold_collector,                  500, 35, 582, 108
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, elixer_collector,                  323, 297, 390, 369
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, elixer_collector,                  670, 200, 738, 274
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, elixer_collector,                  514, 440, 581, 508
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, elixer_collector,                  704, 441, 774, 515
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, gold_collector,                  539, 103, 619, 159
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, gold_collector,                  464, 161, 541, 223
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, gold_collector,                  451, 408, 524, 470
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg, 1252, 720, gold_collector,                  763, 407, 844, 470
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, elixer_collector,                  346, 344, 428, 431
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, elixer_collector,                  535, 455, 621, 540
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, elixer_collector,                  664, 105, 750, 197
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, elixer_collector,                  846, 345, 941, 431
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, gold_collector,                  596, 81, 678, 152
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, gold_collector,                  282, 310, 367, 387
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, gold_collector,                  594, 516, 689, 597
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg, 1242, 720, gold_collector,                  920, 302, 1008, 386
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, elixer_collector,                  828, 301, 915, 383
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, elixer_collector,                  806, 400, 901, 491
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, elixer_collector,                  742, 509, 835, 599
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, elixer_collector,                  599, 524, 690, 624
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, gold_collector,                  311, 244, 409, 318
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, gold_collector,                  378, 319, 470, 388
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, gold_collector,                  397, 419, 496, 498
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg, 1272, 720, gold_collector,                  458, 528, 557, 611
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, elixer_collector,                  402, 474, 490, 577
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, elixer_collector,                  614, 511, 702, 604
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, elixer_collector,                  438, 72, 537, 159
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, elixer_collector,                  717, 149, 813, 235
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, gold_collector,                  373, 161, 472, 246
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, gold_collector,                  650, 92, 748, 172
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, gold_collector,                  499, 535, 575, 608
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg, 1133, 700, gold_collector,                  703, 497, 780, 576
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, elixer_collector,                  401, 517, 489, 612
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, elixer_collector,                  571, 523, 661, 617
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, elixer_collector,                  714, 447, 814, 535
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, elixer_collector,                  719, 183, 821, 269
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, gold_collector,                  277, 198, 380, 280
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, gold_collector,                  659, 508, 743, 587
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, gold_collector,                  765, 391, 864, 477
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg, 1127, 700, gold_collector,                  310, 479, 401, 553
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, elixer_collector,                  477, 95, 551, 165
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, elixer_collector,                  546, 67, 624, 145
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, elixer_collector,                  283, 346, 359, 415
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, elixer_collector,                  448, 469, 521, 540
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, gold_collector,                  619, 114, 688, 172
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, gold_collector,                  740, 409, 823, 472
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, gold_collector,                  656, 473, 741, 538
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg, 1121, 720, gold_collector,                  560, 518, 638, 579
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, elixer_collector,                  256, 177, 321, 237
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, elixer_collector,                  317, 93, 400, 171
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, elixer_collector,                  411, 46, 500, 116
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, elixer_collector,                  237, 362, 306, 434
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, gold_collector,                  617, 57, 697, 116
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, gold_collector,                  725, 109, 797, 171
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, gold_collector,                  786, 189, 876, 252
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg, 1076, 700, gold_collector,                  803, 381, 885, 443
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, elixer_collector,                  669, 604, 724, 659
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, elixer_collector,                  710, 572, 762, 626
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, elixer_collector,                  747, 540, 800, 599
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, elixer_collector,                  784, 514, 844, 570
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, gold_collector,                  330, 526, 377, 567
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, gold_collector,                  365, 557, 409, 597
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, gold_collector,                  411, 582, 453, 626
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg, 1148, 700, gold_collector,                  449, 610, 493, 653
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, elixer_collector,                  428, 197, 478, 250
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, elixer_collector,                  468, 150, 525, 214
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, elixer_collector,                  466, 227, 520, 283
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, gold_collector,                  512, 274, 577, 327
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, gold_collector,                  599, 274, 658, 325
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg, 899, 636, gold_collector,                  645, 243, 711, 292
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, elixer_collector,                  79, 379, 170, 466
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, elixer_collector,                  276, 443, 366, 541
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, elixer_collector,                  497, 503, 582, 593
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, elixer_collector,                  692, 432, 776, 522
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, gold_collector,                  157, 448, 245, 532
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, gold_collector,                  351, 518, 431, 597
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, gold_collector,                  567, 466, 665, 551
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg, 980, 620, gold_collector,                  755, 386, 867, 473
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, elixer_collector,                  511, 563, 596, 642
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, elixer_collector,                  596, 498, 685, 585
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, elixer_collector,                  588, 630, 694, 714
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, elixer_collector,                  676, 565, 768, 643
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, gold_collector,                  866, 329, 938, 387
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, gold_collector,                  925, 272, 1007, 343
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, gold_collector,                  985, 326, 1071, 395
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg, 1334, 750, gold_collector,                  929, 374, 1003, 443
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, elixer_collector,                  215, 328, 302, 413
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, elixer_collector,                  344, 113, 427, 195
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, elixer_collector,                  423, 59, 509, 139
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, elixer_collector,                  788, 157, 869, 237
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, gold_collector,                  275, 274, 354, 339
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, gold_collector,                  658, 130, 738, 204
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, gold_collector,                  730, 476, 817, 540
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg, 1145, 710, gold_collector,                  282, 392, 356, 454
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, elixer_collector,                  65, 336, 145, 409
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, elixer_collector,                  511, 501, 606, 579
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, elixer_collector,                  724, 405, 800, 479
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, elixer_collector,                  550, 164, 636, 246
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, gold_collector,                  61, 238, 141, 302
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, gold_collector,                  187, 511, 284, 574
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, gold_collector,                  647, 512, 732, 573
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg, 881, 700, gold_collector,                  725, 310, 811, 381
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, elixer_collector,                  410, 335, 482, 408
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, elixer_collector,                  513, 101, 580, 159
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, elixer_collector,                  685, 49, 744, 114
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, elixer_collector,                  683, 546, 748, 608
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, gold_collector,                  899, 362, 978, 423
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, gold_collector,                  429, 478, 499, 534
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, elixer_collector,                  813, 339, 878, 407
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, gold_collector,                  759, 176, 834, 236
-D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg, 1193, 700, gold_collector,                  462, 149, 538, 209
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, elixer_collector,                  275, 30, 367, 113
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, elixer_collector,                  72, 127, 195, 225
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, elixer_collector,                  457, 398, 555, 505
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, gold_collector,                  420, 59, 497, 124
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, gold_collector,                  596, 149, 705, 238
-D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg, 758, 550, gold_collector,                  226, 425, 323, 513
+image_name,width,height,label,x_min,y_min,x_max,y_max
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,elixer_collector,                  437,169,490,213
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,elixer_collector,                  568,150,624,206
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,elixer_collector,                  369,291,414,341
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,gold_collector,                  437,358,490,400
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,gold_collector,                  508,356,563,401
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d56725f51dc206dd7face1a.jpg,1066,700,gold_collector,                  509,161,561,199
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,gold_collector,                  553,207,606,250
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,gold_collector,                  684,170,737,212
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,gold_collector,                  774,233,833,278
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,elixer_collector,                  588,162,654,214
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,elixer_collector,                  732,195,777,247
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d71c5266ceacd69ab2b722c.jpg,1280,720,elixer_collector,                  498,223,553,275
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,elixer_collector,                  640,268,715,345
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,elixer_collector,                  496,160,569,233
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,elixer_collector,                  315,82,391,151
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,gold_collector,                  153,166,250,249
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,gold_collector,                  453,364,539,422
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5d7dbae413abb94e20a5c728.jpg,894,600,gold_collector,                  421,116,506,179
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,elixer_collector,                  304,156,333,185
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,elixer_collector,                  278,172,306,199
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,elixer_collector,                  259,188,285,218
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,elixer_collector,                  231,204,262,237
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,gold_collector,                  193,180,220,202
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,gold_collector,                  214,160,240,184
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,gold_collector,                  236,148,263,171
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dcbbc7eca6047042ede731b.jpg,634,300,gold_collector,                  258,130,284,152
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,elixer_collector,                  627,102,706,174
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,elixer_collector,                  684,176,769,249
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,elixer_collector,                  301,351,384,427
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,elixer_collector,                  379,407,460,485
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,gold_collector,                  692,74,774,145
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,gold_collector,                  790,119,867,186
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,gold_collector,                  885,132,971,197
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd605fcaf1560050f1f65db.jpg,1280,698,gold_collector,                  460,476,536,545
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,elixer_collector,                  355,416,427,491
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,elixer_collector,                  417,462,486,539
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,elixer_collector,                  472,500,544,581
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,elixer_collector,                  534,549,600,618
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,gold_collector,                  670,558,755,634
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,gold_collector,                  733,513,811,583
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,gold_collector,                  789,477,863,542
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60640af1560050f1f65de.jpg,1263,717,gold_collector,                  848,437,925,498
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,elixer_collector,                  219,335,328,424
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,elixer_collector,                  340,410,434,504
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,elixer_collector,                  496,127,592,210
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,elixer_collector,                  886,378,980,467
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,gold_collector,                  333,269,418,343
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,gold_collector,                  420,212,507,286
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,gold_collector,                  760,209,845,289
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60677af1560050f1f65e1.jpg,1247,709,gold_collector,                  425,486,503,576
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,elixer_collector,                  363,180,452,267
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,elixer_collector,                  524,86,633,171
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,elixer_collector,                  500,441,582,528
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,elixer_collector,                  669,531,758,626
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,gold_collector,                  624,69,723,144
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,gold_collector,                  865,385,959,452
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,gold_collector,                  900,447,1011,519
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60709af1560050f1f65e7.jpg,1327,720,gold_collector,                  847,496,936,571
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,elixer_collector,                  354,169,428,242
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,elixer_collector,                  255,263,340,347
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,elixer_collector,                  847,283,928,355
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,elixer_collector,                  695,140,771,216
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,gold_collector,                  482,110,565,185
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,gold_collector,                  431,471,509,536
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,gold_collector,                  655,476,738,540
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60860af1560050f1f65f9.jpg,1182,720,gold_collector,                  845,173,932,250
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,elixer_collector,                  759,179,831,250
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,elixer_collector,                  818,220,891,296
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,elixer_collector,                  764,421,849,502
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,elixer_collector,                  615,566,696,644
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,gold_collector,                  476,487,556,549
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,gold_collector,                  629,474,716,531
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd6095caf1560050f1f660b.jpg,1258,701,gold_collector,                  704,527,791,589
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,elixer_collector,                  341,255,417,343
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,elixer_collector,                  419,243,481,318
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,elixer_collector,                  376,337,449,412
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,elixer_collector,                  716,211,790,286
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,gold_collector,                  394,192,468,247
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,gold_collector,                  445,151,520,209
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,gold_collector,                  531,135,602,196
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dd60b47af1560050f1f6623.jpg,1263,700,gold_collector,                  566,473,638,528
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,elixer_collector,                  595,533,680,624
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,elixer_collector,                  651,457,732,544
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,elixer_collector,                  751,457,844,544
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,elixer_collector,                  764,381,849,454
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,gold_collector,                  448,357,521,424
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,gold_collector,                  729,281,808,348
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,gold_collector,                  840,287,926,352
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc6ec4f083b04597de718.jpg,1278,737,gold_collector,                  826,360,908,420
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,elixer_collector,                  451,113,543,198
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,elixer_collector,                  814,324,911,415
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,elixer_collector,                  461,448,541,529
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,elixer_collector,                  635,482,722,572
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,gold_collector,                  382,410,459,474
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,gold_collector,                  713,458,780,530
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,gold_collector,                  702,147,777,205
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5ddcc7274f083b04597de71b.jpg,1285,686,gold_collector,                  532,509,607,574
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,elixer_collector,                  655,480,737,569
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,elixer_collector,                  713,438,805,529
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,elixer_collector,                  774,406,859,485
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,elixer_collector,                  829,344,916,442
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,gold_collector,                  172,374,257,442
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,gold_collector,                  235,427,313,490
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,gold_collector,                  296,472,377,534
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474744f083b04597de75e.jpg,1117,720,gold_collector,                  509,481,586,545
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,elixer_collector,                  777,167,855,246
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,elixer_collector,                  842,215,901,279
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,elixer_collector,                  886,245,948,315
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,elixer_collector,                  931,277,1005,356
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,gold_collector,                  543,180,607,235
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,gold_collector,                  465,332,533,394
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de474f74f083b04597de761.jpg,1322,682,gold_collector,                  530,375,592,438
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,elixer_collector,                  512,255,587,322
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,elixer_collector,                  479,296,556,377
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,elixer_collector,                  541,341,600,415
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,elixer_collector,                  583,402,655,478
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,gold_collector,                  882,272,957,330
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,gold_collector,                  922,330,1001,384
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,gold_collector,                  871,362,946,424
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de736ff1ffbd501b86c27c6.jpg,1450,720,gold_collector,                  822,419,898,483
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,elixer_collector,                  777,151,843,210
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,elixer_collector,                  842,177,907,257
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,elixer_collector,                  901,228,963,296
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,elixer_collector,                  870,453,948,526
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,gold_collector,                  911,331,969,380
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,gold_collector,                  858,370,925,424
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,gold_collector,                  765,435,829,498
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5de737531ffbd501b86c27c9.jpg,1520,720,gold_collector,                  822,510,896,571
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,elixer_collector,                  335,177,423,261
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,elixer_collector,                  412,129,491,216
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,elixer_collector,                  464,86,542,174
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,elixer_collector,                  532,48,614,127
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,gold_collector,                  635,111,703,169
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,gold_collector,                  701,158,772,218
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,gold_collector,                  761,203,833,260
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6d89fd33ab32aa3bffb1.jpg,1140,720,gold_collector,                  856,433,945,495
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,elixer_collector,                  429,459,484,532
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,elixer_collector,                  533,497,601,566
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,elixer_collector,                  696,428,760,493
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,elixer_collector,                  695,250,765,324
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,gold_collector,                  407,270,474,323
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,gold_collector,                  373,431,434,492
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,gold_collector,                  647,476,712,531
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6de7fd33ab32aa3bffb4.jpg,1128,718,gold_collector,                  756,385,836,451
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,elixer_collector,                  458,401,540,487
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,elixer_collector,                  532,449,602,531
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,elixer_collector,                  642,451,733,533
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,elixer_collector,                  931,263,1020,352
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,gold_collector,                  762,464,838,549
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,gold_collector,                  833,422,911,495
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,gold_collector,                  889,373,986,449
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5deb6e1ffd33ab32aa3bffb7.jpg,1257,720,gold_collector,                  461,517,544,589
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,elixer_collector,                  339,377,435,482
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,elixer_collector,                  421,429,508,536
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,elixer_collector,                  489,484,577,578
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,elixer_collector,                  559,535,648,639
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,gold_collector,                  907,402,1011,482
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,gold_collector,                  840,457,935,536
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,gold_collector,                  765,511,872,590
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5decb532fd33ab32aa3bffcc.jpg,1227,720,gold_collector,                  693,559,798,644
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,elixer_collector,                  651,179,712,242
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,elixer_collector,                  735,235,798,304
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,elixer_collector,                  782,277,839,338
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,elixer_collector,                  826,310,888,375
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,gold_collector,                  808,395,876,450
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,gold_collector,                  765,431,832,482
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,gold_collector,                  715,467,787,517
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb959fd33ab32aa3c0098.jpg,1277,720,gold_collector,                  676,499,749,554
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,elixer_collector,                  800,256,871,327
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,elixer_collector,                  828,360,906,439
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,elixer_collector,                  753,410,842,483
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,elixer_collector,                  638,56,714,133
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,gold_collector,                  690,141,763,198
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,gold_collector,                  425,386,499,449
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedb9abfd33ab32aa3c009b.jpg,1247,720,gold_collector,                  518,457,583,511
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,elixer_collector,                  487,125,585,221
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,elixer_collector,                  307,384,405,481
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,elixer_collector,                  373,501,467,597
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,elixer_collector,                  466,532,564,634
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,gold_collector,                  935,155,1051,237
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,gold_collector,                  876,406,985,485
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,gold_collector,                  832,502,940,578
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbac8fd33ab32aa3c00a4.jpg,1194,720,gold_collector,                  721,559,828,633
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,elixer_collector,                  559,527,620,592
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,elixer_collector,                  601,500,660,557
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,elixer_collector,                  653,459,704,524
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,elixer_collector,                  695,430,751,491
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,gold_collector,                  860,318,925,359
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,gold_collector,                  815,345,883,402
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,gold_collector,                  777,383,845,432
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedbb47fd33ab32aa3c00a7.jpg,1167,714,gold_collector,                  736,412,796,464
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,elixer_collector,                  398,279,469,347
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,elixer_collector,                  410,358,482,427
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,elixer_collector,                  493,413,555,484
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,elixer_collector,                  740,179,805,246
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,gold_collector,                  499,191,578,247
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,gold_collector,                  750,428,827,482
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,gold_collector,                  844,289,917,348
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedc183fd33ab32aa3c00dd.jpg,1334,750,gold_collector,                  832,374,906,430
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,elixer_collector,                  772,71,862,162
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,elixer_collector,                  324,350,412,430
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,elixer_collector,                  430,398,507,480
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,elixer_collector,                  772,316,858,403
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,gold_collector,                  306,288,382,352
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,gold_collector,                  403,215,489,278
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,gold_collector,                  464,138,553,204
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5dedce5ffd33ab32aa3c014c.jpg,1206,720,gold_collector,                  601,493,713,567
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,elixer_collector,                  587,360,661,433
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,elixer_collector,                  706,446,779,516
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,elixer_collector,                  827,189,897,259
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,elixer_collector,                  928,263,991,330
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,gold_collector,                  753,152,829,205
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,gold_collector,                  564,289,649,347
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,gold_collector,                  821,479,901,538
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df0ac3dfd33ab32aa3c025a.jpg,1220,720,gold_collector,                  987,329,1073,389
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,elixer_collector,                  376,153,465,231
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,elixer_collector,                  298,336,380,420
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,elixer_collector,                  642,445,727,532
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,elixer_collector,                  827,176,906,269
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,gold_collector,                  599,61,692,134
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,gold_collector,                  744,170,829,240
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,gold_collector,                  738,450,833,522
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5df67a3bfd33ab32aa3c0363.jpg,1171,730,gold_collector,                  575,505,673,579
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,elixer_collector,                  212,354,314,451
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,elixer_collector,                  398,558,494,653
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,elixer_collector,                  662,491,758,590
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,elixer_collector,                  773,403,876,496
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,gold_collector,                  952,227,1060,303
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,gold_collector,                  466,98,559,166
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,gold_collector,                  654,107,765,186
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e007880184bd17390527f2c.jpg,1131,700,gold_collector,                  501,582,601,667
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,elixer_collector,                  193,352,291,449
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,elixer_collector,                  380,554,466,650
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,elixer_collector,                  638,490,743,580
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,elixer_collector,                  744,406,860,507
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,gold_collector,                  447,93,538,165
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,gold_collector,                  646,116,741,185
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,gold_collector,                  936,224,1030,302
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0078ca184bd17390527f2f.jpg,1109,700,gold_collector,                  492,592,586,671
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,elixer_collector,                  288,151,376,246
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,elixer_collector,                  200,182,287,282
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,elixer_collector,                  199,283,292,376
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,elixer_collector,                  291,323,379,415
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,gold_collector,                  360,126,444,198
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,gold_collector,                  442,55,540,137
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,gold_collector,                  553,41,652,115
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e00790e184bd17390527f32.jpg,1164,700,gold_collector,                  310,423,400,499
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,elixer_collector,                  385,443,474,536
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,elixer_collector,                  670,496,773,589
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,elixer_collector,                  744,442,835,533
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,elixer_collector,                  808,384,911,483
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,gold_collector,                  771,165,861,248
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,gold_collector,                  842,225,931,305
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,gold_collector,                  847,308,959,382
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e08d109184bd17390528278.jpg,1162,720,gold_collector,                  475,527,567,607
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,elixer_collector,                  308,296,402,385
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,elixer_collector,                  435,207,526,295
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,elixer_collector,                  688,144,763,234
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,elixer_collector,                  681,514,774,599
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,gold_collector,                  328,396,419,464
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,gold_collector,                  373,462,466,527
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,gold_collector,                  601,130,684,200
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a89ce184bd173905282db.jpg,1310,720,gold_collector,                  375,269,456,340
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,elixer_collector,                  280,186,362,263
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,elixer_collector,                  438,69,517,146
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,elixer_collector,                  562,67,640,150
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,elixer_collector,                  698,168,779,252
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,gold_collector,                  377,134,453,194
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,gold_collector,                  220,244,296,314
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,gold_collector,                  580,499,686,576
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0a8cc9184bd173905282f9.jpg,1088,678,gold_collector,                  500,35,582,108
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,elixer_collector,                  323,297,390,369
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,elixer_collector,                  670,200,738,274
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,elixer_collector,                  514,440,581,508
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,elixer_collector,                  704,441,774,515
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,gold_collector,                  539,103,619,159
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,gold_collector,                  464,161,541,223
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,gold_collector,                  451,408,524,470
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbbb8184bd1739052835e.jpg,1252,720,gold_collector,                  763,407,844,470
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,elixer_collector,                  346,344,428,431
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,elixer_collector,                  535,455,621,540
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,elixer_collector,                  664,105,750,197
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,elixer_collector,                  846,345,941,431
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,gold_collector,                  596,81,678,152
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,gold_collector,                  282,310,367,387
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,gold_collector,                  594,516,689,597
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc07184bd17390528361.jpg,1242,720,gold_collector,                  920,302,1008,386
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,elixer_collector,                  828,301,915,383
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,elixer_collector,                  806,400,901,491
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,elixer_collector,                  742,509,835,599
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,elixer_collector,                  599,524,690,624
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,gold_collector,                  311,244,409,318
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,gold_collector,                  378,319,470,388
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,gold_collector,                  397,419,496,498
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e0cbc34184bd17390528364.jpg,1272,720,gold_collector,                  458,528,557,611
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,elixer_collector,                  402,474,490,577
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,elixer_collector,                  614,511,702,604
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,elixer_collector,                  438,72,537,159
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,elixer_collector,                  717,149,813,235
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,gold_collector,                  373,161,472,246
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,gold_collector,                  650,92,748,172
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,gold_collector,                  499,535,575,608
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1006041af9e76e0e7f939a.jpg,1133,700,gold_collector,                  703,497,780,576
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,elixer_collector,                  401,517,489,612
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,elixer_collector,                  571,523,661,617
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,elixer_collector,                  714,447,814,535
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,elixer_collector,                  719,183,821,269
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,gold_collector,                  277,198,380,280
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,gold_collector,                  659,508,743,587
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,gold_collector,                  765,391,864,477
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc1a58ceb1043530c583.jpg,1127,700,gold_collector,                  310,479,401,553
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,elixer_collector,                  477,95,551,165
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,elixer_collector,                  546,67,624,145
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,elixer_collector,                  283,346,359,415
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,elixer_collector,                  448,469,521,540
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,gold_collector,                  619,114,688,172
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,gold_collector,                  740,409,823,472
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,gold_collector,                  656,473,741,538
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e1bdc6c58ceb1043530c586.jpg,1121,720,gold_collector,                  560,518,638,579
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,elixer_collector,                  256,177,321,237
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,elixer_collector,                  317,93,400,171
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,elixer_collector,                  411,46,500,116
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,elixer_collector,                  237,362,306,434
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,gold_collector,                  617,57,697,116
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,gold_collector,                  725,109,797,171
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,gold_collector,                  786,189,876,252
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e2d5338ba7f24043964b653.jpg,1076,700,gold_collector,                  803,381,885,443
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,elixer_collector,                  669,604,724,659
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,elixer_collector,                  710,572,762,626
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,elixer_collector,                  747,540,800,599
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,elixer_collector,                  784,514,844,570
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,gold_collector,                  330,526,377,567
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,gold_collector,                  365,557,409,597
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,gold_collector,                  411,582,453,626
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e31862d94f4e704f34f543f.jpg,1148,700,gold_collector,                  449,610,493,653
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,elixer_collector,                  428,197,478,250
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,elixer_collector,                  468,150,525,214
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,elixer_collector,                  466,227,520,283
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,gold_collector,                  512,274,577,327
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,gold_collector,                  599,274,658,325
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\5e3c1c273e705904274efe97.jpg,899,636,gold_collector,                  645,243,711,292
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,elixer_collector,                  79,379,170,466
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,elixer_collector,                  276,443,366,541
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,elixer_collector,                  497,503,582,593
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,elixer_collector,                  692,432,776,522
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,gold_collector,                  157,448,245,532
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,gold_collector,                  351,518,431,597
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,gold_collector,                  567,466,665,551
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e3c55343e705904274eff4b.jpg,980,620,gold_collector,                  755,386,867,473
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,elixer_collector,                  511,563,596,642
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,elixer_collector,                  596,498,685,585
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,elixer_collector,                  588,630,694,714
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,elixer_collector,                  676,565,768,643
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,gold_collector,                  866,329,938,387
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,gold_collector,                  925,272,1007,343
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,gold_collector,                  985,326,1071,395
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e40b20071cd3b0486eb21d8.jpg,1334,750,gold_collector,                  929,374,1003,443
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,elixer_collector,                  215,328,302,413
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,elixer_collector,                  344,113,427,195
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,elixer_collector,                  423,59,509,139
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,elixer_collector,                  788,157,869,237
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,gold_collector,                  275,274,354,339
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,gold_collector,                  658,130,738,204
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,gold_collector,                  730,476,817,540
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e587d5c027f107696d5e8a6.jpg,1145,710,gold_collector,                  282,392,356,454
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,elixer_collector,                  65,336,145,409
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,elixer_collector,                  511,501,606,579
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,elixer_collector,                  724,405,800,479
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,elixer_collector,                  550,164,636,246
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,gold_collector,                  61,238,141,302
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,gold_collector,                  187,511,284,574
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,gold_collector,                  647,512,732,573
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e73220015f7be553840f55a.jpg,881,700,gold_collector,                  725,310,811,381
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,elixer_collector,                  410,335,482,408
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,elixer_collector,                  513,101,580,159
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,elixer_collector,                  685,49,744,114
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,elixer_collector,                  683,546,748,608
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,gold_collector,                  899,362,978,423
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,gold_collector,                  429,478,499,534
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,elixer_collector,                  813,339,878,407
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,gold_collector,                  759,176,834,236
+D:\GitHub\coc_bot\src\base_downloader\layouts\th4\5e804ad415f7be553840f7ca.jpg,1193,700,gold_collector,                  462,149,538,209
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,elixer_collector,                  275,30,367,113
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,elixer_collector,                  72,127,195,225
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,elixer_collector,                  457,398,555,505
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,gold_collector,                  420,59,497,124
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,gold_collector,                  596,149,705,238
+D:\GitHub\coc_bot\src\base_downloader\layouts\th3\6060439f91e7d50454bc69dc.jpg,758,550,gold_collector,                  226,425,323,513
