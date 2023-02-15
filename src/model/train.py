@@ -12,6 +12,9 @@ from torch.utils.data import DataLoader
 from ImageDataSet import ImageDataSet
 from model import Model
 from predict import *
+import torch
+
+device = torch.device("cpu" if torch.cuda.is_available() else "cpu")
 
 csv_path = "..\\clip_image\\train_data\\Dataset.csv"
 data_frame = pd.read_csv(csv_path)
@@ -49,13 +52,19 @@ def plot_image_with_bbox(image, bbox):
         plt.gca().add_patch(rectangle)
     plt.show()
 
-dataloader = DataLoader(dataset=dataset_coc, batch_size=3, shuffle=False, collate_fn=collate_fn)
+dataloader = DataLoader(dataset=dataset_coc,
+                        batch_size=1,
+                        shuffle=False,
+                        collate_fn=collate_fn)
 
 #Model
-model = Model(len(label_mapper) + 1)
-model = model.to("cpu")
+model = Model(out_classes = len(label_mapper) + 1)
+model = model.to(device)
 save_path = ".\\save\\basic_model.pt"
-model.load_state_dict(torch.load(save_path))
+try:
+    model.load_state_dict(torch.load(save_path))
+except:
+    pass
 
 optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
 best_class_loss = best_regress_loss = np.inf;
@@ -66,8 +75,8 @@ best_class_loss = best_regress_loss = np.inf;
 for epoch in range(epoch):
     epoch_classif_loss = epoch_regress_loss = cnt = 0
     for batch_x, batch_y in dataloader:
-        batch_x = list(image.to("cpu") for image in batch_x)
-        batch_y = [{k: v.to("cpu") for k, v in t.items()} for t in batch_y]
+        batch_x = list(image.to(device) for image in batch_x)
+        batch_y = [{k: v.to(device) for k, v in t.items()} for t in batch_y]
         optimizer.zero_grad()
         loss_dict = model(batch_x, batch_y)
         losses = sum(loss for loss in loss_dict.values())
