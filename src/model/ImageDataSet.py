@@ -1,13 +1,32 @@
 import torch
 from torch.utils.data import Dataset, DataLoader
 from PIL import Image
+from torchvision import transforms as TF
+import json
 
 class ImageDataSet(Dataset):
     def __init__(self, data, transforms=None):
         self.data = data
-        self.transforms = transforms
-        self.image_names = self.data.image_name.unique()
-
+        if (transforms):
+            self.transforms = transforms
+        else:
+            self.transforms = TF.Compose([
+                TF.Resize((224, 224)),
+                TF.ToTensor()
+            ])
+        try:
+            self.image_names = self.data.image_name.unique()
+            self.image_labels = self.data.label.unique()
+        except:
+            print("no valid data, use only for auto tagging")
+    
+    def get_default_transforms(self):
+        return self.transforms
+    
+    def get_labels_decoding(self):
+        with open('.\\labels\\decodings.json', 'r') as fptr:
+            return json.load(fptr, object_hook=lambda x : {int(k) : v for k , v in x.items()})
+    
     def __getitem__(self, idx):
         img_path = self.image_names[idx]
         img = Image.open(img_path)
@@ -39,4 +58,4 @@ class ImageDataSet(Dataset):
         return img, target
 
     def __len__(self):
-        return len(self.image_names)
+        return len(self.image_names)       

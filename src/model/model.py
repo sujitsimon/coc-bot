@@ -3,6 +3,8 @@ from torchvision.models.detection.faster_rcnn import FastRCNNPredictor
 from torch import nn
 import torch
 
+DEFAULT_PATH = ".\\save\\basic_model.pt"
+
 class Model(nn.Module):
     def __init__(self, out_classes):
         super(Model, self).__init__()
@@ -10,6 +12,14 @@ class Model(nn.Module):
         in_features = self.model.roi_heads.box_predictor.cls_score.in_features
         self.out_classes = out_classes
         self.model.roi_heads.box_predictor = FastRCNNPredictor(in_features, self.out_classes)
+
+    def load_default_state(self):
+        print(f"Loading Default Path: {DEFAULT_PATH}")
+        self.load_state_dict(torch.load(DEFAULT_PATH))
+        
+    def load_custom_to_model(self, state_dict):
+        print(f"Loading from path: {state_dict}")
+        self.model.load_state_dict(torch.load(state_dict))
 
     def forward(self, x):
         x = self.model(x)
