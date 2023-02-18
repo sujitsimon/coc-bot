@@ -16,9 +16,13 @@ class Model(nn.Module):
     def load_default_state(self):
         print(f"Loading Default Path: {DEFAULT_PATH}")
         self.load_state_dict(torch.load(DEFAULT_PATH))
+        
+    def load_custom_to_model(self, state_dict):
+        print(f"Loading from path: {state_dict}")
+        self.model.load_state_dict(torch.load(state_dict))
 
-    def forward(self, x, y):
-        x = self.model(x, y)
+    def forward(self, x):
+        x = self.model(x)
         return x
 
 if __name__ == "__main__":

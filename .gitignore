@@ -140,3 +140,6 @@ src/playground/save/*
 
 #Saved Model State
 src/model/save/*
+
+#Auto Tagged
+src/model/autotagged/*

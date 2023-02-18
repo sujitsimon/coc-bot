@@ -1,4 +1,5 @@
 import os
+import json
 import numpy as np
 import pandas as pd
 import torch
@@ -19,7 +20,7 @@ device = torch.device("cpu" if torch.cuda.is_available() else "cpu")
 csv_path = "..\\clip_image\\train_data\\Dataset.csv"
 data_frame = pd.read_csv(csv_path)
 
-def generate_labels(data):
+def generate_labels(data, save=True):
     i = 1
     encoding = {}
     decodings = {}
@@ -27,7 +28,13 @@ def generate_labels(data):
         encoding[each_data] = i
         decodings[i] = each_data
         i += 1
+    if save:
+        with open('.\\labels\\encodings.json', 'w') as fptr:
+            json.dump(encoding, fptr, indent=4)
+        with open('.\\labels\\decodings.json', 'w') as fptr:
+            json.dump(decodings, fptr, indent=4)
     return encoding, decodings
+
 
 label_mapper, label_inverse_mapper = generate_labels(data_frame['label'].unique().tolist())
 data_frame['label'] = data_frame['label'].map(label_mapper)
@@ -72,6 +79,7 @@ best_class_loss = best_regress_loss = np.inf;
 epoch = 50
 model.train()
 best_class_loss = best_regress_loss = np.inf;
+print('Starting Model Training')
 for epoch in range(epoch):
     epoch_classif_loss = epoch_regress_loss = cnt = 0
     for batch_x, batch_y in dataloader:
@@ -99,4 +107,4 @@ for epoch in range(epoch):
         best_class_loss = epoch_classif_loss
         best_regress_loss = epoch_regress_loss
 
-predict(model, r'D:\GitHub\coc_bot\src\base_downloader\layouts\th5\5ea938b9213d4304ad84301c.jpg', transform, label_inverse_mapper)
+# predict(model, r'D:\GitHub\coc_bot\src\base_downloader\layouts\th5\5ea938b9213d4304ad84301c.jpg', transform, label_inverse_mapper)
