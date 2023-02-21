@@ -27,7 +27,8 @@ class XML_writer:
         annotation_tag.append(self.__get_size_element())
         annotation_tag.append(self.__get_segment_element())
         for i in range(len(self.results['labels'])):
-            annotation_tag.append(self.__get_result_object_element(i))
+            if self.results['scores'][i] >= 0.5:
+                annotation_tag.append(self.__get_result_object_element(i))
         tree = ET.ElementTree(annotation_tag)
         ET.indent(tree, space="\t", level=0)
         self.check_and_make_dir(os.path.join(self.target_folder, self.folder_name))
