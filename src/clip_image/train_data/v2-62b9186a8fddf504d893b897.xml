@@ -155,16 +155,4 @@
 			<ymax>448</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>gold_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>541</xmin>
-			<ymin>399</ymin>
-			<xmax>601</xmax>
-			<ymax>454</ymax>
-		</bndbox>
-	</object>
 </annotation>

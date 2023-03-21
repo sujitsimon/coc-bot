@@ -19,7 +19,7 @@ class Model(nn.Module):
         
     def load_custom_to_model(self, state_dict):
         print(f"Loading from path: {state_dict}")
-        self.model.load_state_dict(torch.load(state_dict))
+        self.model.load_state_dict(torch.load(state_dict, map_location=torch.device('cpu')))
 
     def forward(self, x):
         x = self.model(x)
