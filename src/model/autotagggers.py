@@ -36,7 +36,7 @@ if __name__ == "__main__":
     image_data_set = ImageDataSet(None)
     transforms = image_data_set.get_default_transforms()
     labels = image_data_set.get_labels_decoding()
-    root_folder = "..\\base_downloader\\layouts\\th6"
+    root_folder = "..\\base_downloader\\layouts\\th7"
     target_folder = ".\\autotagged\\"
     auto_taggers = Autotaggers(root_folder, target_folder, model, transforms, labels)
     auto_taggers.run()
