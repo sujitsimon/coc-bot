@@ -1,7 +1,7 @@
 <annotation>
 	<folder>th7</folder>
-	<filename>5d7db7ba13abb94e20a5c70a.jpg</filename>
-	<path>D:\GitHub\coc_bot\src\base_downloader\layouts\th7\5d7db7ba13abb94e20a5c70a.jpg</path>
+	<filename>5dbd12fdbc183c042bdf991d.jpg</filename>
+	<path>D:\GitHub\coc_bot\src\base_downloader\layouts\th7\5dbd12fdbc183c042bdf991d.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>elixer_collector</name>
+		<name>gold_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>280</xmin>
-			<ymin>105</ymin>
-			<xmax>338</xmax>
-			<ymax>156</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>346</xmin>
-			<ymin>72</ymin>
-			<xmax>405</xmax>
-			<ymax>129</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>248</xmin>
-			<ymin>154</ymin>
-			<xmax>301</xmax>
-			<ymax>205</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>404</xmin>
-			<ymin>58</ymin>
-			<xmax>460</xmax>
-			<ymax>112</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>499</xmin>
-			<ymin>401</ymin>
-			<xmax>560</xmax>
-			<ymax>456</ymax>
+			<xmin>400</xmin>
+			<ymin>49</ymin>
+			<xmax>456</xmax>
+			<ymax>99</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>241</ymin>
-			<xmax>203</xmax>
-			<ymax>287</ymax>
+			<xmin>469</xmin>
+			<ymin>74</ymin>
+			<xmax>512</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>250</xmin>
-			<ymin>369</ymin>
-			<xmax>302</xmax>
-			<ymax>419</ymax>
+			<xmin>702</xmin>
+			<ymin>175</ymin>
+			<xmax>744</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>656</xmin>
-			<ymin>311</ymin>
-			<xmax>713</xmax>
-			<ymax>358</ymax>
+			<xmin>739</xmin>
+			<ymin>255</ymin>
+			<xmax>781</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>263</ymin>
-			<xmax>231</xmax>
-			<ymax>313</ymax>
+			<xmin>333</xmin>
+			<ymin>414</ymin>
+			<xmax>384</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gold_collector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>281</ymin>
+			<xmax>208</xmax>
+			<ymax>328</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,34 +89,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>499</xmin>
-			<ymin>52</ymin>
-			<xmax>560</xmax>
-			<ymax>115</ymax>
+			<xmin>253</xmin>
+			<ymin>129</ymin>
+			<xmax>307</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>gold_collector</name>
+		<name>elixer_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>405</xmin>
-			<ymin>408</ymin>
-			<xmax>463</xmax>
-			<ymax>459</ymax>
+			<xmin>316</xmin>
+			<ymin>84</ymin>
+			<xmax>368</xmax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>gold_collector</name>
+		<name>elixer_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>639</xmin>
-			<ymin>130</ymin>
-			<xmax>687</xmax>
-			<ymax>166</ymax>
+			<xmin>637</xmin>
+			<ymin>99</ymin>
+			<xmax>684</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>elixer_collector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>192</ymin>
+			<xmax>785</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>elixer_collector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>402</ymin>
+			<xmax>579</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>elixer_collector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>440</ymin>
+			<xmax>431</xmax>
+			<ymax>495</ymax>
 		</bndbox>
 	</object>
 </annotation>
