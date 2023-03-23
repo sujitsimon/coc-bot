@@ -107,28 +107,4 @@
 			<ymax>363</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>gold_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>619</xmin>
-			<ymin>305</ymin>
-			<xmax>678</xmax>
-			<ymax>372</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gold_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>280</xmin>
-			<ymin>344</ymin>
-			<xmax>340</xmax>
-			<ymax>411</ymax>
-		</bndbox>
-	</object>
 </annotation>

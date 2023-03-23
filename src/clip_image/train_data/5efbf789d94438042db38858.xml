@@ -137,18 +137,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>376</xmin>
-			<ymin>164</ymin>
-			<xmax>446</xmax>
-			<ymax>241</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>317</xmin>
 			<ymin>532</ymin>
 			<xmax>387</xmax>

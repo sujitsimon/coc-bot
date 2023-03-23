@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>399</xmin>
-			<ymin>372</ymin>
-			<xmax>461</xmax>
-			<ymax>429</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>gold_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

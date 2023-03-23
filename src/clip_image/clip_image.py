@@ -1,6 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 from PIL import Image
+from tqdm import tqdm
 
 PATH = '.\\train_data'
 CLIP_PATH = '.\\clipped_img'
@@ -39,9 +40,11 @@ for home, dir_, files in os.walk(PATH):
                     except:
                         OBJECTS[name] = []
                         OBJECTS[name].append(temp_object)
+
+reference_csv_contents = ['Image_Path, Object Name, Index\n']
                         
 for each_objects in OBJECTS:
-    for index, value in enumerate(OBJECTS[each_objects]):
+    for index, value in tqdm(enumerate(OBJECTS[each_objects])):
         image = Image.open(value['path'])
         xmin = int(value['bndbox']['xmin'])
         xmax = int(value['bndbox']['xmax'])
@@ -49,5 +52,9 @@ for each_objects in OBJECTS:
         ymax = int(value['bndbox']['ymax'])
         image_new = image.crop((xmin, ymin, xmax, ymax))
         file_format = '{}\\{}_{}.png'.format(CLIP_PATH, each_objects, index)
+        reference_csv_contents.append("{}, {}, {}\n".format(value['path'], value['name'], index))
         image_new.save(file_format)
+
+with open('Reference.csv', 'w') as fptr:
+    fptr.writelines(reference_csv_contents)
     

@@ -108,30 +108,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>150</xmin>
-			<ymin>244</ymin>
-			<xmax>201</xmax>
-			<ymax>286</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>elixer_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>263</ymin>
-			<xmax>231</xmax>
-			<ymax>315</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>gold_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -165,6 +141,18 @@
 			<ymin>408</ymin>
 			<xmax>463</xmax>
 			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gold_collector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>130</ymin>
+			<xmax>687</xmax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 </annotation>

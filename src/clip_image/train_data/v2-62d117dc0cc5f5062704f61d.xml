@@ -144,15 +144,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gold_collector</name>
+		<name>elixer_collector</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>250</xmin>
-			<ymin>155</ymin>
-			<xmax>300</xmax>
-			<ymax>207</ymax>
+			<xmin>249</xmin>
+			<ymin>160</ymin>
+			<xmax>295</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 </annotation>

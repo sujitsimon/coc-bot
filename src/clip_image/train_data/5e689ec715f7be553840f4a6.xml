@@ -89,18 +89,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>774</xmin>
-			<ymin>93</ymin>
-			<xmax>852</xmax>
-			<ymax>158</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gold_collector</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>306</xmin>
 			<ymin>110</ymin>
 			<xmax>401</xmax>
